@@ -1,4 +1,7 @@
-## Hi there 👋
+## Blog Posts
+- [Medium: Driving Engagement by Letting Users Choose Their Own Destiny](https://medium.com/@sssamshadle7/driving-engagement-by-letting-users-choose-their-own-destiny-f73aa41ea9ae)
+- [CMU|SEI: Example Case: Using DevSecOps to Redefine Minimum Viable Product](https://doi.org/10.58012/mkck-y774)
+
 
 <!--
 **shadowshak/shadowshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
